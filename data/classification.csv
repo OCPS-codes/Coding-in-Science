@@ -1,0 +1,79 @@
+organism,eukaryotic,prokaryotic,domain,kingdom,phylum,class,order,chloroplast,autotroph,multicellular,extreme
+worm,yes,no,eukarya,animalia,annelida,oligochaeta,megadrilacea,no,no,no,no
+bee,yes,no,eukarya,animalia,arthropoda,insecta,hymenoptera,no,no,yes,no
+black widow,yes,no,eukarya,animalia,arthropoda,arachnid,araneae,no,no,yes,no
+butterfly,yes,no,eukarya,animalia,arthropoda,insecta,lepidoptera,no,no,yes,no
+dragonfly,yes,no,eukarya,animalia,arthropoda,insecta,odonata,no,no,yes,no
+flea,yes,no,eukarya,animalia,arthropoda,insecta,siphonaptera,no,no,yes,no
+fly,yes,no,eukarya,animalia,arthropoda,insecta,diptera,no,no,yes,no
+mosquito,yes,no,eukarya,animalia,arthropoda,insecta,diptera,no,no,yes,no
+moth,yes,no,eukarya,animalia,arthropoda,insecta,lepidoptera,no,no,yes,no
+scorpion,yes,no,eukarya,animalia,arthropoda,arachnida,scorpiones,no,no,yes,no
+wasp,yes,no,eukarya,animalia,arthropoda,insecta,hymenoptera,no,no,yes,no
+yeast,yes,no,eukarya,fungi,ascomycota,saccharomycetes�,saccharomycetales,no,no,no,no
+death cap,yes,no,eukarya,fungi,basidiomycota,agaricomycetes,agaricales,no,no,yes,no
+white mushroom,yes,no,eukarya,fungi,basidiomycota,agaricomycetes,agaricales,no,no,yes,no
+moss,yes,no,eukarya,plantae,bryophyta,polytrichaceae,bromeliales,yes,yes,yes,no
+badger,yes,no,eukarya,animalia,chordata,mammalia,carnivora,no,no,yes,no
+bat,yes,no,eukarya,animalia,chordata,mammalia,chiroptera,no,no,yes,no
+bear,yes,no,eukarya,animalia,chordata,mammalia,ursidae,no,no,yes,no
+beaver,yes,no,eukarya,animalia,chordata,mammalia,rodentia,no,no,yes,no
+bobcat,yes,no,eukarya,animalia,chordata,mammalia,carnivora,no,no,yes,no
+cat,yes,no,eukarya,animalia,chordata,mammalia,carnivora,no,no,yes,no
+chicken,yes,no,eukarya,animalia,chordata,aves,galliformes,no,no,yes,no
+chimpanzee,yes,no,eukarya,animalia,chordata,mammalia,primates,no,no,yes,no
+chipmunk,yes,no,eukarya,animalia,chordata,mammalia,rodentia,no,no,yes,no
+clownfish,yes,no,eukarya,animalia,chordata,actinopterygii,perciformes,no,no,yes,no
+cow,yes,no,eukarya,animalia,chordata,mammalia,artiodactyla,no,no,yes,no
+crocodile,yes,no,eukarya,animalia,chordata,reptilia,crocodilia,no,no,yes,no
+deer,yes,no,eukarya,animalia,chordata,mammalia,artiodactyla,no,no,yes,no
+dog,yes,no,eukarya,animalia,chordata,mammalia,carnivora,no,no,yes,no
+dolphin,yes,no,eukarya,animalia,chordata,mammalia,cetacea,no,no,yes,no
+duck,yes,no,eukarya,animalia,chordata,aves,anseriformes,no,no,yes,no
+eagle,yes,no,eukarya,animalia,chordata,aves,falconiformes,no,no,yes,no
+flamingo,yes,no,eukarya,animalia,chordata,aves,phoenicopteriformes,no,no,yes,no
+fox,yes,no,eukarya,animalia,chordata,mammalia,carnivora,no,no,yes,no
+giraffe,yes,no,eukarya,animalia,chordata,mammalia,artiodactyla,no,no,yes,no
+goose,yes,no,eukarya,animalia,chordata,aves,anseriformes,no,no,yes,no
+hamster,yes,no,eukarya,animalia,chordata,mammalia,rodentia,no,no,yes,no
+hippopotamus,yes,no,eukarya,animalia,chordata,mammalia,artiodactyla,no,no,yes,no
+kangaroo,yes,no,eukarya,animalia,chordata,mammalia,diprotodontia,no,no,yes,no
+lemur,yes,no,eukarya,animalia,chordata,mammalia,primates,no,no,yes,no
+lizard,yes,no,eukarya,animalia,chordata,reptilia,squamata,no,no,yes,no
+mouse,yes,no,eukarya,animalia,chordata,mammalia,rodentia,no,no,yes,no
+opossum,yes,no,eukarya,animalia,chordata,mammalia,didelphimorphia,no,no,yes,no
+otter,yes,no,eukarya,animalia,chordata,mammalia,carnivora,no,no,yes,no
+owl,yes,no,eukarya,animalia,chordata,aves,strigiformes,no,no,yes,no
+panda,yes,no,eukarya,animalia,chordata,mammalia,carnivora,no,no,yes,no
+penguin,yes,no,eukarya,animalia,chordata,aves,sphenisciformes,no,no,yes,no
+pig,yes,no,eukarya,animalia,chordata,mammalia,artiodactyla,no,no,yes,no
+porcupine,yes,no,eukarya,animalia,chordata,mammalia,rodentia,no,no,yes,no
+rabbit,yes,no,eukarya,animalia,chordata,mammalia,lagomorpha,no,no,yes,no
+raccoon,yes,no,eukarya,animalia,chordata,mammalia,carnivora,no,no,yes,no
+rattlesnake,yes,no,eukarya,animalia,chordata,reptilia,squamata,no,no,yes,no
+red panda,yes,no,eukarya,animalia,chordata,mammalia,carnivora,no,no,yes,no
+rhinoceros,yes,no,eukarya,animalia,chordata,mammalia,perissodactyla,no,no,yes,no
+salamander,yes,no,eukarya,animalia,chordata,amphibia,urodela,no,no,yes,no
+seal,yes,no,eukarya,animalia,chordata,mammalia,carnivora,no,no,yes,no
+shark,yes,no,eukarya,animalia,chordata,chondrichthyes,lamniformes,no,no,yes,no
+skunk,yes,no,eukarya,animalia,chordata,mammalia,carnivora,no,no,yes,no
+sloth,yes,no,eukarya,animalia,chordata,mammalia,pilosa,no,no,yes,no
+squirrel,yes,no,eukarya,animalia,chordata,mammalia,rodentia,no,no,yes,no
+tree frog,yes,no,eukarya,animalia,chordata,amphibia,anura,no,no,yes,no
+tucan,yes,no,eukarya,animalia,chordata,aves,piciformes,no,no,yes,no
+turkey,yes,no,eukarya,animalia,chordata,aves,galliformes,no,no,yes,no
+turtle,yes,no,eukarya,animalia,chordata,reptilia,testudines,no,no,yes,no
+vulture,yes,no,eukarya,animalia,chordata,aves,accipitriformes,no,no,yes,no
+weasel,yes,no,eukarya,animalia,chordata,mammalia,carnivora,no,no,yes,no
+whale,yes,no,eukarya,animalia,chordata,mammalia,cetartiodactyla,no,no,yes,no
+wolf,yes,no,eukarya,animalia,chordata,mammalia,carnivora,no,no,yes,no
+woodpecker,yes,no,eukarya,animalia,chordata,aves,piciformes,no,no,yes,no
+pine tree,yes,no,eukarya,plantae,coniferaphya,pinopsida,pinales,yes,yes,yes,no
+poison ivy,yes,no,eukarya,plantae,embryophyta,magnoliopsida�,sapindales,yes,yes,yes,no
+staphylococcus aureus,no,yes,bacteria,eubacteria,firmicutes,bacilli,bacillales,no,no,no,no
+snail,yes,no,eukarya,animalia,mullusca,gastropoda,pulmonata,no,no,yes,no
+oak tree,yes,no,eukarya,plantae,tracheophyta,magnoliopsida,fagales,yes,yes,yes,no
+palm tree,yes,no,eukarya,plantae,tracheophyta,liliopsida,arecales,yes,yes,yes,no
+mold,yes,no,eukarya,fungi,zygomycota,mucoromycotina,mucorales,no,no,yes,no
+streptococcus pyogenes,no,yes,bacteria,eubacteria,firmicutes,bacilli,lactobacillales,no,no,no,no
+halobacterium salinarum,no,yes,archaea,archaeabacteria,euryarchaeota,halobacteria,halobacteriales ,no,yes,no,yes
